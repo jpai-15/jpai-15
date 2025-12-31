@@ -1,5 +1,5 @@
 # Hey there, I'm Jhanvi :wave:
-I'm graduate from the New Jersey Institute of Technology with a degree in Computing and Business and minor in Design of the User Experience. 
+I'm a recent 2025 graduate from the New Jersey Institute of Technology with a degree in Computing and Business and minor in Design of the User Experience. 
 
 I have a passion for problem solving and accessibility in tech. I hope to combine my technical prowess and business acumen in the fields of software engineering, UX design, and technology consulting. 
 
