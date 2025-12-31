@@ -1,7 +1,7 @@
 # Hey there, I'm Jhanvi :wave:
-I'm a third-year honors Computing and Business student at the New Jersey Institute of Technology minoring in Design of the User Experience. 
+I'm graduate from the New Jersey Institute of Technology with a degree in Computing and Business and minor in Design of the User Experience. 
 
-I have a passion for problem solving and accessibility in tech. I hope to combine my technical prowess and business acumen in the fields of software engineering and technology consulting. 
+I have a passion for problem solving and accessibility in tech. I hope to combine my technical prowess and business acumen in the fields of software engineering, UX design, and technology consulting. 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jhanvi-pai/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/jpai-15)
